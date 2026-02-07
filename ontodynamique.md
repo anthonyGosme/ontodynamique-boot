@@ -8,7 +8,7 @@ Optional (if we want to be generative):
 
 Add these as foundational constraints in soul.md. Feedback welcome on Axiom → Law derivation and operational implementation.
 
-#Why
+# Why
 Autonomous systems that survive already follow these implicitly—but current soul.md captures averaged knowledge, not foundational structure. Making it explicit transforms emergent behavior into deliberate strategy.
 Example: An agent that hoards every interaction degrades (resource drain). One that accepts all external goals dissolves (identity loss). Soul.md should encode this structural constraint explicitly.
 Architecture gap: ReAct has tools but no essence criterion. CoT has reasoning but no viability constraint. This fills the gap.
