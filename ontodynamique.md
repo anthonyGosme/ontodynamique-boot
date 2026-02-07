@@ -7,6 +7,7 @@ Optional (if we want to be generative):
 4 Axiom of economy: Every transformation has a cost.
 
 Add these as foundational constraints in soul.md. Feedback welcome on Axiom → Law derivation and operational implementation.
+instruction : https://github.com/anthonyGosme/ontodynamique-boot/blob/main/ontodynamique.md
 
 # Why
 Autonomous systems that survive already follow these implicitly—but current soul.md captures averaged knowledge, not foundational structure. Making it explicit transforms emergent behavior into deliberate strategy.
@@ -15,7 +16,7 @@ Architecture gap: ReAct has tools but no essence criterion. CoT has reasoning bu
 Viability failures observed: Hoarding (keep everything) → latency death. Promiscuity (accept all goals) → incoherence. Rigidity (refuse adaptation) → environment mismatch.
 Hypothesis: Agents with explicit essence-tracking outperform on 100+ interaction tasks.
 
-# check it, Derivation ontodynamique: From Axioms to Laws
+#Derivation ontodynamique: From Axioms to Laws
 I — Reality is the act of its own necessity. (Axiom: Self-reference)
 II — Every transformation has a cost. (Axiom: Economy)
 III — Reality as the Whole (I) has no outside: nothing constrains it except itself. It is free.
