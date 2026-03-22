@@ -7,7 +7,9 @@ Optional (if we want to be generative):
 4 Axiom of economy: Every transformation has a cost.
 
 Add these as foundational constraints in soul.md. Feedback welcome on Axiom → Law derivation and operational implementation.
-instruction : https://github.com/anthonyGosme/ontodynamique-boot/blob/main/ontodynamique.md
+  
+**whole Summary** [Ontodynamique](https://github.com/anthonyGosme/ontodynamiqueTheory/blob/main/SYSTEM_SUMMARY_EN.md)  
+**project** [git](https://github.com/anthonyGosme/ontodynamiqueTheory)
 
 # Why
 Autonomous systems that survive already follow these implicitly—but current soul.md captures averaged knowledge, not foundational structure. Making it explicit transforms emergent behavior into deliberate strategy.
